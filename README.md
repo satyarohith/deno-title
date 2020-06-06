@@ -7,7 +7,7 @@ Capitalize your titles as per [The Chicago Manual of Style](http://www.chicagoma
 ## Usage
 
 ```ts
-import title from 'https://raw.githubusercontent.com/satyarohith/deno-title/master/mod.ts'
+import title from 'https://deno.land/x/title/mod.ts'
 
 console.log(title("deno - a new way to javascript"))
 // Deno - A New Way to JavaScript
